@@ -10,4 +10,5 @@ export default [
         {text:"5班 vs 20班", link:'/school/vs20/index.md'},
         {text:"5班 vs 8班", link:'/school/vs8/index.md'},
         ],},
+    {text:'2025年五四青年朗诵比赛', link:'/school/langsongbisai/index.md'},
 ]
