@@ -56,6 +56,7 @@ export default defineConfig({
         text: '链接', items: [
           { text: 'MCJPG', link: 'https://mcjpg.org' },
           { text: 'LobeChat', link: 'https://chat.mcjpg.org' },
+          { text: 'Li Drive', link: 'http://drive.li-web.xyz:34343' },
           { text: 'VitePress', link: 'https://vitepress.dev' }
         ]
       }
